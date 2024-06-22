@@ -8,16 +8,16 @@
         <div id="carouselExampleAutoplaying" class="container carousel slide p-10" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="assets/img/imagen5.png" class="rounded mx-auto d-block w-60" alt="...">
+                    <img src="assets/img/imagen5.png" class="rounded mx-auto d-block img-fluid w-60" alt="...">
                 </div>
                 <div class="carousel-item ">
-                    <img src="assets/img/imagen1.png" class="rounded mx-auto d-block w-60" alt="...">
+                    <img src="assets/img/imagen1.png" class="rounded mx-auto d-block img-fluid w-60" alt="...">
                 </div>
                 <div class="carousel-item ">
-                    <img src="assets/img/imagen2.png" class="rounded mx-auto d-block w-60" alt="...">
+                    <img src="assets/img/imagen2.png" class="rounded mx-auto d-block img-fluid w-60" alt="...">
                 </div>
                 <div class="carousel-item ">
-                    <img src="assets/img/imagen3.png" class="rounded mx-auto d-block w-60" alt="...">
+                    <img src="assets/img/imagen3.png" class="rounded mx-auto d-block img-fluid w-60" alt="...">
                 </div>
                 <div class="carousel-item ">
                     <img src="assets/img/imagen6.png" class="rounded mx-auto d-block w-60" alt="...">
